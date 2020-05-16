@@ -1,0 +1,5 @@
+flask
+flask_restful
+mysql.connector
+requests
+kafka-python
