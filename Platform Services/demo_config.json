@@ -1,0 +1,38 @@
+{
+    "actionmanager": {
+        "IP": "127.0.0.1",
+        "PORT": "5052"
+    },
+    "sensormanager": {
+        "IP": "127.0.0.1",
+        "PORT": "5050"
+    },
+    "sensorregistration": {
+        "IP": "127.0.0.1",
+        "PORT": "5051"
+    },
+    "scheduler": {
+        "IP": "127.0.0.1",
+        "PORT": "5053"
+    },
+    "serverLCM": {
+        "IP": "127.0.0.1",
+        "PORT": "5054"
+    },
+    "serviceLCM": {
+        "IP": "127.0.0.1",
+        "PORT": "8080"
+    },
+    "Monitoring": {
+        "IP": "127.0.0.1",
+        "PORT": "5055"
+    },
+    "requestmanager": {
+        "IP": "127.0.0.1",
+        "PORT": "5056"
+    },
+    "deployer": {
+        "IP": "127.0.0.1",
+        "PORT": "8888"
+    }
+}
